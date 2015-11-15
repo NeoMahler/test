@@ -1,2 +1,2 @@
-# test
-test
+msgid untranslated-string
+msgstr "hello"
